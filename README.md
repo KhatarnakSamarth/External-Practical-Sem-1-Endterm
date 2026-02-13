@@ -2,6 +2,9 @@
 ## Question
 Create a product page for Ecommerce Website and use fonts, padding, margin, width, height.
 
+## Output Here: 
+🌟 [Github Pages Output](https://khatarnaksamarth.github.io/External-Practical-Sem-1-Endterm/external-practical.html)
+
 ## Details
 Name: SAMARTH VERMA
 
